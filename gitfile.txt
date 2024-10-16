@@ -12,6 +12,6 @@ year publication
 summary: Algorithm and input
 and output, parameters being quantified
 
-resources and possibility-feasibility study
+resources and possibility-feasibility study meant for students
 
 THURSDAY 12:45
