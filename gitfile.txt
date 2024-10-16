@@ -1,0 +1,17 @@
+all types of noises
+types of filters in each domain
+Fourier transform
+**traditional iteration method (reconstruction) -apply to image
+parameters- to evaluate the similarity :to increase accuracy rate
+
+LS: compare with deep learning-(explainable ai) and iterative, CT
+
+Paper1:  title
+year publication
+
+summary: Algorithm and input
+and output, parameters being quantified
+
+resources and possibility-feasibility study
+
+THURSDAY 12:45
